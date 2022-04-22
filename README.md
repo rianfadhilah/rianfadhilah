@@ -5,3 +5,4 @@
 - 🌱 I’m currently learning Data Science 
 - 💞️ I’m looking for work on Data Analytics and Data Scince field 
 - 📫 How to reach me rianfadhillah17@gmail.com
+-  :bar_chart: My Tableu Viz https://public.tableau.com/app/profile/rianfadhilah
